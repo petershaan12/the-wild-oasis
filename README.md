@@ -12,7 +12,7 @@
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://raw.githubusercontent.com/petershaan12/the-wild-oasis/main/public/screenshoot.png)
 
 ## Run Locally
 
